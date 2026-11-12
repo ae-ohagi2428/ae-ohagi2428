@@ -3,8 +3,7 @@
 データ分析やAI関係に携わりたいと考えています。
 
 ## Skills
-
-### 分析
+#### 分析
 [![Skills](https://skillicons.dev/icons?i=py,sklearn)](https://skillicons.dev)
 
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -14,9 +13,9 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
 ### Web開発・データベース
-[![Skills](https://skillicons.dev/icons?i=django,html,css,postgres)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=django,js,html,css,postgres)](https://skillicons.dev)
 
-### ツール・環境
+#### ツール・環境
 [![Skills](https://skillicons.dev/icons?i=git,github,docker,vscode)](https://skillicons.dev)
 
 #### Background
