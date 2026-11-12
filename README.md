@@ -31,3 +31,6 @@
 - **[ときよみ★](https://voice-schedule-app-web.onrender.com/)** --- 音声入力・音声通知によるタスク管理アプリ（使用技術：Django / JavaScript / Gemini APIなど）
 - **[定着ノート](https://teichaku-web-tvy3.onrender.com/)** --- 忘却曲線に基づくタイミングで復習ができる学習アプリ（使用技術：Django / HTML / JavaScriptなど）
 
+## 🌟Links
+- Portfolio：[https://ae-ohagi2428.github.io/](https://ae-ohagi2428.github.io/)
+- Zenn：[https://zenn.dev/ohagi_2428](https://zenn.dev/ohagi_2428)
