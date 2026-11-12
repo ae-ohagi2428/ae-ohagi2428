@@ -1,9 +1,9 @@
 ## 🌟About Me
+自治体職員として9年間勤務。図書館ではシステム運用・保守、次期システム要件定義、図書館DX業務に携わりました。
 2026年4月からRUNTEQにてPython、独学でSQL・統計学等を学習しています。
 データ分析やAI関係に携わりたいと考えています。
 
 ## 🌟Skills
-
 #### 分析
 [![Skills](https://skillicons.dev/icons?i=py,sklearn)](https://skillicons.dev)
 
